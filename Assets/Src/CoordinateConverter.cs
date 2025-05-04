@@ -52,7 +52,7 @@ public static class CoordinateConverter
         float lonRad = longitude * Mathf.Deg2Rad;
 
         // Calcul de la position sur la sphère
-        float radius = earthRadius + altitude / 1000f; // Conversion en km ou l'échelle utilisée
+        float radius = (earthRadius /2 + altitude); // / 1000f; // Conversion en km ou l'échelle utilisée
 
         // Les coordonnées sphériques vers cartésiennes
         float x = radius * Mathf.Cos(latRad) * Mathf.Cos(lonRad);
