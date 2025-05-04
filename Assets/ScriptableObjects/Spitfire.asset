@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c91be012a7ee7c49814c87546fcac25, type: 3}
+  m_Name: Spitfire
+  m_EditorClassIdentifier: 
+  type: 0
+  aircraftName: Spitfire Mk.I
+  icon: {fileID: 0}
+  prefab: {fileID: 0}
+  description: 
+  maxSpeed: 580
+  cruisingSpeed: 0
+  maxAltitude: 9000
+  range: 500
+  fuelConsumption: 0
+  attackPower: 80
+  defensePower: 70
+  bombLoad: 0
+  accuracy: 0
+  crewRequired: 0
+  maintenanceCost: 0
+  productionCost: 0

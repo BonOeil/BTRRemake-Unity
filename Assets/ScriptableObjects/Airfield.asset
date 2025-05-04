@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: Airfield
   m_EditorClassIdentifier: Assembly-CSharp::LocationTypeData
   type: 0
-  displayName: 
+  displayName: Airfield
   icon: {fileID: 0}
   prefab: {fileID: 0}
   description: 
-  canLaunchAircraft: 0
-  canRepairAircraft: 0
-  defenseValue: 0
+  canLaunchAircraft: 1
+  canRepairAircraft: 1
+  defenseValue: 30
   strategicValue: 0

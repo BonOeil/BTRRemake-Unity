@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: City
   m_EditorClassIdentifier: Assembly-CSharp::LocationTypeData
   type: 1
-  displayName: 
+  displayName: City
   icon: {fileID: 0}
   prefab: {fileID: 0}
   description: 
   canLaunchAircraft: 0
   canRepairAircraft: 0
-  defenseValue: 0
-  strategicValue: 0
+  defenseValue: 10
+  strategicValue: 50
