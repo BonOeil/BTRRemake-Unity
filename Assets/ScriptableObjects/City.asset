@@ -15,7 +15,7 @@ MonoBehaviour:
   type: 1
   displayName: City
   icon: {fileID: 0}
-  prefab: {fileID: 0}
+  prefab: {fileID: 4773322690315431415, guid: ea844242e15c4df4280a91cb001d4519, type: 3}
   description: 
   canLaunchAircraft: 0
   canRepairAircraft: 0
